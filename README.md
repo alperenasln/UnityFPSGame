@@ -1,4 +1,4 @@
-# UnityFPSGame
+# A demo FPS game by using Asset store of Unity
 to play demo:
 https://alperenasln.github.io/UnityFPSGame/
 
